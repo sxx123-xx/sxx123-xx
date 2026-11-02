@@ -1,5 +1,8 @@
-## Hi there 👋
-
+## Hi there sunxiangxiang(孙翔翔)👋
+我的专业是 人工智能
+进入实验室的时间是 2026年10月10日
+前两阶段学习总结 掌握了 C 语言的基础语法，项目开发，熟悉了 GitHub 普通仓库的搭建，熟悉了计算机操作、AI 聊天产品。
+本周学习目标 成功搭建 GitHub 同名主页仓库，理解 README 和 Markdown 语法，掌握规范的 commit 提交记录，学会使用 git 命令行进行版本控制。
 <!--
 **sxx123-xx/sxx123-xx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
